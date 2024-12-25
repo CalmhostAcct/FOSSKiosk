@@ -1,2 +1,2 @@
 # FOSSKiosk
-Open source kiosk software made perfect (In Development)
+FOSSKiosk is a Python application designed for kiosks, which is open source made in 2024
